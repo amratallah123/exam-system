@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+a{
+  text-decoration: none;
+}
+
