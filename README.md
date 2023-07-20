@@ -2,7 +2,7 @@
 1. cd exams-system-interface
 2. npm install
 3. npm start
-# starting The Client 
+# starting The Server 
 1. cd exam-system-server
 2. npm install
 3. npm start
